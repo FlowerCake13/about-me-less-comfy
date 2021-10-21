@@ -38,14 +38,14 @@ We will be styling our index.html using _styles.css_
  * set the  ```width``` to 700px
 
 ## Stretch Goals
-1. Change the color of your text
+1. Add more fun facts about yourself!
+2. Change the color of your text
  * https://www.w3schools.com/css/css_text.asp
-2. Add more fun facts about yourself!
 3. Change the font
  * https://www.w3schools.com/css/css_font.asp
 4. Go on w3schools and discover more ways to style your page!
  * https://www.w3schools.com/css/default.asp
 
 ## Resources
-HTML _w3schools_: https://www.w3schools.com/html/default.asp
-CSS _w3schools_: https://www.w3schools.com/css/default.asp
+ * HTML _w3schools_: https://www.w3schools.com/html/default.asp
+ * CSS _w3schools_: https://www.w3schools.com/css/default.asp
